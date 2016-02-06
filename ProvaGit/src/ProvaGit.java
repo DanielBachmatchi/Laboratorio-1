@@ -52,7 +52,7 @@ public class ProvaGit {
 			public void widgetSelected(SelectionEvent e) {
 				
 				System.out.println("Ciao mondo");
-				MessageDialog.openInformation(shell, "Ciao", "Ciao Burundu");
+				MessageDialog.openInformation(shell, "Ciao", "Ciao");
 				
 			}
 		});
